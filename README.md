@@ -1,4 +1,4 @@
 # Hi there 👋
 
-## About Me
-My name is Raquel, I'm from Portugal and currently studying Computer Science and Engineering at Instituto Superior Técnico
+My name is Raquel and I'm from Portugal.
+I'm currently studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/).
